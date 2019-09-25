@@ -40,6 +40,14 @@ Gucci
 Buckle
 Sephora
 
+## Make up
+Sephora
+Pink
+Target
+Walmart
+
+## 
+
 
 
 
