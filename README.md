@@ -26,3 +26,5 @@ This is my line --Brian Murdock
 I like turtles.
 
 I'M IN A GLASS CASE OF EMOTION!!
+
+500.  It was a number that I came up with as a kid.  500 street fights and you could consider yourself a legitimate tough guy.
