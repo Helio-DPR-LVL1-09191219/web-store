@@ -10,6 +10,7 @@ Product image and description. Maybe add aside with customer endorsement.
 Fake store address, social media links, etc.
 This is my line --Triston Lopez
 This is my line --Brian Murdock
+Comment added  by Kevin P.
 This is my line --Chase Dixon
 This is my line --Brian Murdock
 Here I am!! Rock me like a hurricane!!  Rich
