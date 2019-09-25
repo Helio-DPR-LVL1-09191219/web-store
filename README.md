@@ -9,11 +9,42 @@ Product image and description. Maybe add aside with customer endorsement.
 ## Footer Section
 Fake store address, social media links, etc.
 
-# Shoes
+## Shoes
 Vans
 DC
 Gucci
 Versace
+
+## Shirts
+Hollister
+Abercrombie
+Gucci
+Versace
+
+## Pants
+Hollister
+Abercrombie
+Gucci
+Versace
+Buckle
+
+## Cologne
+Hollsiter
+Abercrombie
+Buckle
+
+## Perfume
+Pink
+Versace
+Gucci
+Buckle
+Sephora
+
+
+
+
+
+
 
 
 
