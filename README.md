@@ -45,14 +45,3 @@ Sephora
 Pink
 Target
 Walmart
-
-## 
-
-
-
-
-
-
-
-
-
