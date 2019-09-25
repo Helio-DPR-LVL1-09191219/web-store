@@ -15,3 +15,5 @@ This is my line --Brian Murdock
 Here I am!! Rock me like a hurricane!!  Rich
 This is my line --Brian Murdock
 Pepsi or coke?
+she sells sea shells down by the sea shore.
+not gonna lie these burgers smell kinda good.
