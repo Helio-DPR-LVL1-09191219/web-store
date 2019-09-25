@@ -16,3 +16,7 @@ nav>ul {
     display: flex;
 }
 /* don't edit things via github editor */
+.dirty {
+    height: 400px;
+    width: 700px;
+}
