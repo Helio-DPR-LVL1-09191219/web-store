@@ -8,5 +8,4 @@ Links to different products and info
 Product image and description. Maybe add aside with customer endorsement.
 ## Footer Section
 Fake store address, social media links, etc.
-This is my line --Brian Murdock
-aasdlfhklasdjflkasdf
+This should work now.
