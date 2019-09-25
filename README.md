@@ -12,12 +12,9 @@ Fake store address, social media links, etc.
 
 Comment added  by Kevin P.
 
-
-
 This is my line --Chase Dixon
 
 This is my line --Brian Murdock
-
 
 Here I am!! Rock me like a hurricane!!  Rich
 This is my line --Brian Murdock
