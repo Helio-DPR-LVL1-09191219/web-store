@@ -23,3 +23,6 @@ This is my line --Brian Murdock
 Here I am!! Rock me like a hurricane!!  Rich
 This is my line --Brian Murdock
 
+I like turtles.
+
+I'M IN A GLASS CASE OF EMOTION!!
