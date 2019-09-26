@@ -11,8 +11,10 @@ header {
 nav>ul {
     display: flex;
     text-align: center;
+    list-style-type: none;
     
 }
+
 
 .social-networks>ul {
     display: flex;
@@ -26,6 +28,8 @@ header {
 }
 ul {
     text-align: center;
+    text-emphasis-color: blue;
+
 }
 
 section {
