@@ -1,5 +1,4 @@
 # Sample Web Store
-## Header Section
 Logo and Store Title
 Should nav section be in here?
 ## Nav Section
@@ -17,3 +16,4 @@ This is my line --Brian Murdock
 Pepsi or coke?
 she sells sea shells down by the sea shore.
 not gonna lie these burgers smell kinda good.
+
