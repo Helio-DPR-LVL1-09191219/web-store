@@ -1,6 +1,6 @@
 body {
-    margin: 0;
-    padding: 0;
+    margin: 10px;
+    padding: 10px;
 }
 
 header {
@@ -10,13 +10,43 @@ header {
 
 nav>ul {
     display: flex;
+    text-align: center;
+    list-style-type: none;
+    
 }
+
 
 .social-networks>ul {
     display: flex;
+    text-align: center;
 }
+header {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: navy;
+    text-size-adjust: 40px;
+}
+ul {
+    text-align: center;
+    text-emphasis-color: blue;
+
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
 /* don't edit things via github editor */
 .dirty {
     height: 400px;
     width: 700px;
 }
+
+
+
+
+
