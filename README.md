@@ -1,5 +1,4 @@
 # Sample Web Store
-## Header Section
 Logo and Store Title
 Should nav section be in here?
 ## Nav Section
@@ -18,5 +17,43 @@ This is my line --Brian Murdock
 
 Here I am!! Rock me like a hurricane!!  Rich
 This is my line --Brian Murdock
+
+## Shoes
+Vans
+DC
+Gucci
+Versace
+
+## Shirts
+Hollister
+Abercrombie
+Gucci
+Versace
+
+## Pants
+Hollister
+Abercrombie
+Gucci
+Versace
+Buckle
+
+## Cologne
+Hollsiter
+Abercrombie
+Buckle
+
+## Perfume
+Pink
+Versace
+Gucci
+Buckle
+Sephora
+
+## Make up
+Sephora
+Pink
+Target
+Walmart
+
 
 These are my NEWEST changes
