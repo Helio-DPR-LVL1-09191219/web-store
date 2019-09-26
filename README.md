@@ -1,5 +1,4 @@
 # Sample Web Store
-## Header Section
 Logo and Store Title
 Should nav section be in here?
 ## Nav Section
@@ -23,3 +22,4 @@ This is my line --Brian Murdock
 
 
 
+Fake store address, social media links, etc.

@@ -1,6 +1,6 @@
 body {
-    margin: 0;
-    padding: 0;
+    margin: 10px;
+    padding: 10px;
 }
 
 header {
@@ -10,9 +10,31 @@ header {
 
 nav>ul {
     display: flex;
+    text-align: center;
+    
 }
 
 .social-networks>ul {
     display: flex;
+    text-align: center;
 }
-/* don't edit things via github editor */
+header {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: navy;
+    text-size-adjust: 40px;
+}
+ul {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+
+
