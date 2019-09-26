@@ -15,11 +15,13 @@ nav>ul {
     display: inline-flex;
     text-align: center;
     list-style-type: none;
+    justify-content: space-around;
     
 }
 nav>ul>li
 {
     margin: 0 10px;
+    padding: 0;
 }
 
 
