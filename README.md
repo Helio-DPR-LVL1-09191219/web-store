@@ -1,5 +1,4 @@
 # Sample Web Store
-## Header Section
 Logo and Store Title
 Should nav section be in here?
 ## Nav Section
@@ -45,3 +44,4 @@ Sephora
 Pink
 Target
 Walmart
+
