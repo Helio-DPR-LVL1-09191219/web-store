@@ -7,18 +7,25 @@ header {
     border-bottom: 1px solid #000;
     padding: 0 1em;
 }
-
+nav {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
 nav>ul {
-    display: flex;
+    display: inline-flex;
     text-align: center;
     list-style-type: none;
     
 }
-
+nav>ul>li {
+    margin: 0 10px;
+}
 
 .social-networks>ul {
-    display: flex;
+    display: inline-flex;
     text-align: center;
+    
 }
 header {
     text-align: center;
