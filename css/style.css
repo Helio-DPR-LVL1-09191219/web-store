@@ -49,13 +49,26 @@ footer {
     text-align: center;
 }
 
+.media-section {
+    padding: 2em;
+    background: #f00;
+}
+
 /* don't edit things via github editor */
 .dirty {
     height: 400px;
     width: 700px;
 }
+@media screen and (max-width: 800px) {
+    body {
+      font-size: 12px;
+    }
+  }
 
-
-
+  @media screen and (max-width: 600px) {
+    body {
+      font-size: 10px;
+    }
+  }
 
 
