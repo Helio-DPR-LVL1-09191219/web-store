@@ -28,18 +28,27 @@ nav>ul>li
 .social-networks>ul {
     display: flex;
     text-align: center;
+    justify-content: center;
+    
 }
 header {
+    background-color: lightblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Stencil Std, fantasy;
     color: navy;
-    text-size-adjust: 40px;
+    text-size-adjust: 50px;
+    letter-spacing: 4px;
 }
+
 ul {
     text-align: center;
     text-emphasis-color: blue;
-
+    display: center;
 }
+
+
 
 section {
     text-align: center;
@@ -47,11 +56,13 @@ section {
 
 footer {
     text-align: center;
+    display: center;
 }
 
 .media-section {
     padding: 2em;
-    background: #f00;
+    background:lightblue;
+    
 }
 
 /* don't edit things via github editor */
