@@ -1,6 +1,7 @@
 body {
     margin: 10px;
     padding: 10px;
+    font-size: 16px;
 }
 
 header {
@@ -8,20 +9,21 @@ header {
     padding: 0 1em;
 }
 nav {
-    max-width: 800px;
+    width: 90%;
+    max-width: 1000px;
     margin: 0 auto;
-}
-nav>ul {
-    display: inline-flex;
-    text-align: center;
-    list-style-type: none;
+    display: flex;
     justify-content: space-around;
-    
 }
-nav>ul>li
-{
-    margin: 0 10px;
-    padding: 0;
+nav > a{
+    text-decoration: none;
+    padding: 0.25em 0;
+    color: #000;
+    border-bottom: 1px solid rgba(255, 255, 255, 0);
+}
+nav > a:hover {
+    background: rgba(60, 60, 255, 0.5);
+    border-bottom: 1px solid rgba(60, 60, 255, .9);
 }
 
 
@@ -70,15 +72,32 @@ footer {
     height: 400px;
     width: 700px;
 }
-@media screen and (max-width: 800px) {
+button {
+    width: 15em;
+    font-size: 16px;
+}
+@media screen and (min-width: 800px) {
     body {
-      font-size: 12px;
+      font-size: 16px;
     }
+  }
+  @media screen and (max-width: 700px)
+  {
+      textarea {
+          width: 90%;
+      }
   }
 
   @media screen and (max-width: 600px) {
     body {
       font-size: 10px;
+    }
+    textarea {
+        border: 1px solid black;
+    }
+    button {
+        width: 90%;
+        margin-top: 0.5em;
     }
   }
 
